@@ -1,0 +1,47 @@
+ .container {
+  margin: 0;
+  padding: 0;
+}
+h1,h4{
+  display: inline;
+}
+
+.back1, .back2, .back5 {
+height: 1vh;
+width: 100vh;
+margin: 0 auto;
+}
+.howSection {
+  background-color: #edcd1f;
+}
+.fa-check-circle, .fa-envelope, .fa-mobile {
+  color: #edcd1f;
+}
+
+footer .page-footer .black .row{
+  margin: 0;
+  padding: 0;
+  width: 100vh;
+  position: relative;
+overflow: hidden;
+}
+
+.title1{
+  font-family: 'Pacifico', cursive;
+  font-size: 200px;
+}
+
+.title2 {
+  font-family: 'Cambay', sans-serif;
+  font-size: 100px;
+}
+
+a.carousel-item.active {
+    width: 50%;
+
+}
+div.carousel {
+  margin: 0;
+  padding: 0;
+  height: 50vh;
+}
