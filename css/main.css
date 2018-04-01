@@ -24,8 +24,13 @@ margin: 0 auto;
 .fa-check-circle, .fa-envelope, .fa-mobile, .fa-dot-circle-o {
   color: #edcd1f;
 }
-
-
+.parallax-container{
+  height: 400px !important;;
+}
+/* img {
+    -webkit-filter: sepia(100%);
+    filter: sepia(100%);
+} */
 footer .page-footer .black .row{
   margin: 0;
   padding: 0;
