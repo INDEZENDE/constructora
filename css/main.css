@@ -6,6 +6,13 @@ h1,h4{
   display: inline;
 }
 
+.logo {
+  font-size: .7rem;
+}
+nav div a h4 {
+  color: #edcd1f;
+}
+
 .back1, .back2, .back5 {
 height: 1vh;
 width: 100vh;
@@ -14,7 +21,7 @@ margin: 0 auto;
 .howSection {
   background-color: #edcd1f;
 }
-.fa-check-circle, .fa-envelope, .fa-mobile {
+.fa-check-circle, .fa-envelope, .fa-mobile, .fa-dot-circle-o {
   color: #edcd1f;
 }
 
