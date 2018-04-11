@@ -40,4 +40,4 @@ Finalmente, algunos de los proyectos concluidos exitosamente y los medios de con
 
 Para ver el sitio completo puedes entrar a: [sitio original]( https://indezende.github.io/constructora/).
 
-#####  Este proyecto ha sido elaborado para IDU, Ingeniería y Desarrollo Urbano
+##### “Desarrollado para [IDU, Ingeniería y Desarrollo Urbano]”  
