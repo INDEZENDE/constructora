@@ -1,5 +1,5 @@
-# IDU, Ingeniería y Desarrollo Urbano . . .<h2>
-
+# IDU, Ingeniería y Desarrollo Urbano
+![image](https://user-images.githubusercontent.com/32860658/38597102-2df72f8c-3d1b-11e8-9b5c-f76af7e205d3.png)
 ## Tecnologías empleadas en este proyecto:
 * HTML
 * CSS
